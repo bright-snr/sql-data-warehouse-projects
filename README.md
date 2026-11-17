@@ -36,3 +36,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## 🌟 About Me
 
 Hi there! I'm Ofosu Bright Senior. I’m an IT professional on a mission to share knowledge and make working with data enjoyable and engaging!
+Lets stay in touch, feel free to connect me on whatsapp (+223 242921184), email(brightofosu192@gmail.com)
